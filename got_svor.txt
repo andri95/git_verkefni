@@ -21,3 +21,7 @@
 
 5.	Hverjir eru helstu kostir við að nota GIT? / Helstu kostir eru að margir geta unnið í sama verkefni án þess að rekast á hvorn annan
 
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? / Gott að gera það eins oft og maður getur. Ef eitthvað kemur fyrir er hægt að koma í veg fyrir mikið tap með því að commita reglulega
+
+
+
