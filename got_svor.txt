@@ -29,3 +29,5 @@
 
 9.	Hver fann upp GIT? / Linus Torvalds, stofnandi Linux
 
+10.	Hvar er GIT helst notað? / mikið notað í vefforritun og development
+
