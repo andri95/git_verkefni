@@ -23,5 +23,5 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? / Gott að gera það eins oft og maður getur. Ef eitthvað kemur fyrir er hægt að koma í veg fyrir mikið tap með því að commita reglulega
 
-
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? / Working directory er sú mappa/directory sem þú ert að vinna í í augnablikinu (pwd), Staging area - með því að gera git add . setur þú skránna sem þú ert að vinna í í staging area, þar geymist hún þangað til þú commitar. Repository er geymslupláss.
 
