@@ -18,3 +18,6 @@
 	c) git diff commit1 commit2 / will show you the difference between that COMMIT's ancestor and the COMMIT
 
 4. 	Hvað er útgáfustýring (e.version control)? / Kerfi sem heldur utanum breytingar á skrám í tölvu og samhæfir breytingarnar meðal margra notenda.
+
+5.	Hverjir eru helstu kostir við að nota GIT? / Helstu kostir eru að margir geta unnið í sama verkefni án þess að rekast á hvorn annan
+
