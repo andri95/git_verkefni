@@ -11,3 +11,8 @@
 	git status / sýnir working tree status
 	git diff / sýnir breytingar milli commits
 	git checkout / skiptir um branch eða endurheimtir working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff / Show changes between commits, commit and working tree, etc
+	b) git diff --staged / will only show changes to files in the "staged" area.
+	c) git diff commit1 commit2 / will show you the difference between that COMMIT's ancestor and the COMMIT
