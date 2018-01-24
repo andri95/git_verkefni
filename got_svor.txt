@@ -1,0 +1,6 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd / Fer í næsta directory fyrir neðan
+	cd ~ / Fer aftur í home directory
+	ls / Listar skrár í working directory
+	pwd / Birtir current working directory
+	mkdir / Skipun til að búa til nýtt directory
