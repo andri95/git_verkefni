@@ -31,3 +31,5 @@
 
 10.	Hvar er GIT helst notað? / mikið notað í vefforritun og development
 
+Andri Fannar
+
