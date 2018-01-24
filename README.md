@@ -1,1 +1,1 @@
-# git_verkefni
+# Fyrsta GIT verkefnið
