@@ -27,3 +27,5 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)?  / Þegar maður er annaðhvort að vinna í mörgum hlutum af verkefni á sama tíma eða þegar margir eru að vinna í sama verkefni.
 
+9.	Hver fann upp GIT? / Linus Torvalds, stofnandi Linux
+
