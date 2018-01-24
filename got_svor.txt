@@ -25,3 +25,5 @@
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? / Working directory er sú mappa/directory sem þú ert að vinna í í augnablikinu (pwd), Staging area - með því að gera git add . setur þú skránna sem þú ert að vinna í í staging area, þar geymist hún þangað til þú commitar. Repository er geymslupláss.
 
+8.	Hvenær er sniðugt að nota greinar (branches)?  / Þegar maður er annaðhvort að vinna í mörgum hlutum af verkefni á sama tíma eða þegar margir eru að vinna í sama verkefni.
+
