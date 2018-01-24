@@ -4,3 +4,10 @@
 	ls / Listar skrár í working directory
 	pwd / Birtir current working directory
 	mkdir / Skipun til að búa til nýtt directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone / afritar repository inn í nýtt directory
+	git log / sýnir commit log
+	git status / sýnir working tree status
+	git diff / sýnir breytingar milli commits
+	git checkout / skiptir um branch eða endurheimtir working tree files
